@@ -1,0 +1,71 @@
+{
+	"editor.fontSize": 14,
+	"editor.formatOnSave": true,
+	"editor.rulers": [
+		80,
+		120
+	],
+	"editor.fontLigatures": true,
+	"editor.tabSize": 4,
+	"editor.trimAutoWhitespace": true,
+	"editor.tabCompletion": "on",
+	"explorer.openEditors.visible": 0,
+	"window.restoreWindows": "none",
+	"terminal.external.osxExec": "iTerm.app",
+	"terminal.integrated.fontSize": 14,
+	"files.autoSave": "onFocusChange",
+	"extensions.autoUpdate": true,
+	"editor.cursorBlinking": "phase",
+	"window.title": "${activeEditorMedium}${separator}${rootName}",
+	"files.trimTrailingWhitespace": true,
+	"editor.minimap.enabled": false,
+	"editor.renderWhitespace": "boundary",
+	"workbench.colorTheme": "Dracula Theme",
+	"window.zoomLevel": 1,
+	"extensions.ignoreRecommendations": false,
+	"go.coverageDecorator": {
+		"type": "gutter"
+	},
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"/vendor": true
+	},
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.fontAliasing": "auto",
+	"workbench.editor.showIcons": true,
+	"explorer.confirmDragAndDrop": false,
+	"search.smartCase": true,
+	"files.associations": {
+		"*.tmpl": "gotemplate"
+	},
+	"go.testTimeout": "3m",
+	"breadcrumbs.enabled": true,
+	"go.formatTool": "goimports",
+	"search.useGlobalIgnoreFiles": true,
+	"workbench.editor.highlightModifiedTabs": true,
+	"search.showLineNumbers": true,
+	"terminal.integrated.cursorBlinking": true,
+	"go.coverOnSingleTest": true,
+	"terminal.integrated.cursorStyle": "line",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"go.useLanguageServer": true,
+	"go.alternateTools": {
+		"go-langserver": "gopls"
+	},
+	"window.newWindowDimensions": "maximized",
+	"go.buildFlags": [
+		"-v"
+	],
+	"editor.fontFamily": "'Menlo', Hack, Monaco, 'Courier New', monospace",
+	"editor.smoothScrolling": true,
+	"files.exclude": {
+		"yarn.lock": true
+	},
+	"redhat.telemetry.enabled": true,
+	"git.enableCommitSigning": true,
+	"git.autofetch": true,
+	"git.enableSmartCommit": true,
+	"security.workspace.trust.untrustedFiles": "open",
+	"git.confirmSync": false
+}

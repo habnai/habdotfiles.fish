@@ -18,7 +18,7 @@ First, make sure you have all the following installed:
 - `tar`: to extract downloaded files
 - `fish`: the shell
 - `sudo`: some configurations may need that
-
+- `vscode`: some configurations may need that
 ### Install
 
 Then, run these steps:
